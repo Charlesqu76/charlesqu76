@@ -22,6 +22,7 @@ I build software with a focus on clean architecture, practical solutions, and co
 
 Add your top repositories here:
 
+- [zubbii](https://zubbii.com/) — Personalized English learning assistent.
 - [playJSON](https://github.com/Charlesqu76/playJSON) — Visualize JSON data
 
 ## 📈 GitHub Goals (2026)
