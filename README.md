@@ -11,25 +11,28 @@ I build software with a focus on clean architecture, practical solutions, and co
 - 💬 Ask me about: **JavaScript/TypeScript, APIs, and project structure**
 - ⚡ Fun fact: **I enjoy turning complex problems into simple workflows**
 
+## 🤖 AI Agent
+
+I am interested in building AI agents that can understand user intent, use tools, automate workflows, and support real-world learning and productivity scenarios.
+
+Current focus:
+
+- Agentic workflows and tool use
+- AI-assisted software engineering
+
 ## 🧰 Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express
-- **Tools:** Git, VS Code, Docker
+- **Languages:** JavaScript, TypeScript, Python, Node.js
+- **Frontend:** React, Next.js, Tanstack Route/Query, Tailwind CSS
+- **Backend:** Express, Hono.js, PostgreSQL, MongoDb
+- **Tools:** Git, Docker, Claude Code, Codex
 
 ## 📌 Featured Work
 
 Add your top repositories here:
 
-- [zubbii](https://zubbii.com/) — Personalized English learning assistent.
+- [zubbii](https://zubbii.com/) — Personalized English learning assistant.
 - [playJSON](https://github.com/Charlesqu76/playJSON) — Visualize JSON data
-
-## 📈 GitHub Goals (2026)
-
-- Contribute to more open-source repositories
-- Publish reusable starter templates
-- Write technical notes and project postmortems
 
 ## 📫 Contact
 
